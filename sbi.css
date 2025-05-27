@@ -1,0 +1,354 @@
+.main{
+    position: absolute;
+    height: 120%;
+    width: 80%;
+    background-color: #fff;
+    /* box-shadow: 10px 10px 10px rgb(94, 91, 91); */
+    margin-left:130px;
+   border: 1px solid ;
+  box-shadow: 5px 5px 15px;
+}
+.logo{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    margin: 10px 15px 0px 0px;
+    
+}
+img{
+    height: 80px;
+}
+.slogo{
+    position: absolute;
+    left: 0%;
+    height: 50px;
+    
+}
+.nav{
+    position: absolute;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(17, 58, 97);
+    margin-top: 80px;
+    padding-top: 15px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    margin-top: 100px;
+   
+   
+}
+a:hover{
+    color: rgb(225, 108, 35);
+}
+.box1{
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    margin-top: 149px;
+    text-align: center;
+    line-height: 25px;
+    border: 1px solid rgb(36, 34, 34);
+}
+p{
+    color: rgb(85, 85, 227);
+}
+.con1{
+    position: absolute;
+    height: 300px;
+    width: 49%;
+    background-color: #fff;
+    margin-top: 5px;
+    border: 1px solid rgb(36, 34, 34);
+    margin-left: 1px;
+  
+}
+.con2{
+    position: absolute;
+    height: 300px;
+    width: 49%;
+    background-color: #fff;
+    margin-left: 50.5%;
+    margin-right: 5px;
+    margin-top: 5px;
+    border: 1px solid rgb(36, 34, 34);
+}
+.login-button{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 250px;
+}
+#personal_icon {
+    background-position: -13px -88px;
+    width: 70px;
+    height: 96px;
+    display: inline-block;
+     margin: 19px -20px; 
+    background-image: url("sprite.png");
+    position: absolute;
+    margin-top: -70px;
+  
+}
+.personal_highlight{
+    color: rgb(38, 89, 128);
+}
+.personal{
+    display: block;
+    color: rgb(2, 2, 2);
+    font-size: 18px;
+margin: 80px;
+}
+.banking-section a:hover{
+    color: rgb(38, 89, 128);
+}
+/* .login-button{
+    overflow: inherit;
+} */
+.login {
+    
+    width: 120px !important;
+    padding: 7px 0px !important;
+    background: none !important;
+   
+}
+.text{
+    
+    background: rgb(0, 51, 102);
+    color: rgb(255, 255, 255);
+    padding: 6px 10px;
+    margin: 0px 5px;
+    font-weight: bold;
+    
+}
+/* .classicImg {
+    background: rgb(2, 45, 88);
+} */
+.new-user li{
+    
+        display: inline-block;
+        color: rgb(2, 2, 2);
+        border-right: 1px solid rgb(204, 204, 204); 
+        /* padding: 0px 7px; */
+        float: left;
+       
+    
+}
+/* .block{
+    position: absolute;
+} */
+.new-user li a{
+    /* display: block; */
+    /* position: absolute;*/
+   
+    color: rgb(52, 51, 51);
+    /* text-align: left;
+    */
+    
+}
+.para1{
+    position: absolute;
+    margin-top: 50px;
+    font-size: 13px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.register {
+    
+    background-image: url("register.png");
+    background-repeat: no-repeat;
+    height: 30px;
+    padding: 12px 0px 0px 35px;
+    
+}
+.new-user{
+    margin: 0%;
+}
+.user{
+    font-size: 11px;
+}
+.faq{
+ 
+    background-image: url("faq.png");
+    /* background-position-x: 0px;
+    background-position-y: 0px; */
+    /* background-size: initial; */
+    background-repeat: no-repeat;
+    /* background-attachment: initial; */
+    /* background-origin: initial;
+    background-clip: initial; */
+    /* background-color: initial; */
+    height: 30px;
+    padding: 12px 0px 0px 35px;
+    
+}
+.care{
+    background-image: url("cust_care.png");
+    background-repeat: no-repeat;
+    height: 30px;
+    padding: 12px 0px 0px 35px;
+    
+    
+}
+
+.lock{
+    background-image: url("unlock_user.png");
+    background-repeat: no-repeat;
+    height: 30px;
+    padding: 12px 0px 0px 35px;
+    
+
+}
+.bank{
+    position: absolute;
+    margin-top: 15px;
+}
+img{
+    vertical-align: middle;
+    margin: 20px;
+    height: 40px;
+    width: 140px;
+}
+.corporate{
+    color: rgb(38, 89, 128);
+}
+.corporate-bank{
+    display: block;
+    color: rgb(2, 2, 2);
+    font-size: 18px;
+   margin: 0px;
+}
+.banking-section1 a:hover{
+    color: rgb(38, 89, 128);
+}
+.icon{
+    font-size: large;
+    height: 30px;
+    padding: 12px 0px 0px 35px;
+}
+#choose{
+  height: 30px;
+  color: rgb(39, 36, 36);
+}
+#choose:hover{
+    background-color: rgb(62, 62, 187);
+}
+.log {
+    
+    width: 120px !important;
+    padding: 7px 0px !important;
+    background: none !important;
+   
+}
+.login1{
+    
+    background: rgb(0, 51, 102);
+    color: rgb(255, 255, 255);
+    padding: 6px 10px;
+    margin: 0px 5px;
+    font-weight: bold;
+    
+}
+.scroll{
+    margin: 12px;
+}
+.text1{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13px;
+    text-align: justify;
+    color: rgb(59, 58, 58);
+    
+}
+.text2{
+    position: absolute;
+    font-size: 14px;
+    text-align: left;
+    padding: 3px;
+    margin-top: -10px;
+    color: rgb(59, 58, 58);
+}
+.demo{
+    margin-top: 550px;
+    background-color: rgb(155, 235, 208,0.4);
+    font-size: 12px;
+    padding: 5px;
+    color: #981001;
+   
+}
+
+.coll ul li a{
+   
+    text-decoration: none;
+    color: #065C79;
+    margin-left: 20px;
+    cursor: pointer;
+    
+} 
+.coll ul li{
+    margin: 15px;
+    background-image: url(icon_usefulLinks.png);
+    background-repeat:  no-repeat ;
+    background-position:  left ;
+    /* list-style-position: outside;   */
+    overflow: hidden;
+    
+}
+.col ul li a{
+    text-decoration: none;
+    color: #065C79;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.col ul li{
+    margin: 15px;
+    background-image: url(icon_usefulLinks.png);
+    background-repeat:  no-repeat ;
+    background-position:  left ;
+    /* background-position:  center; */
+    /* list-style-position: outside;   */
+    overflow: hidden;
+}
+.col{
+    position: absolute;
+    margin-top: -151px;
+    margin-left: 350px;
+}
+.col1{
+    margin-top: -132px;
+    margin-right: 0px;
+}
+.col1 ul li a{
+    text-decoration: none;
+    color: #065C79;
+     margin-left: 20px; 
+     cursor: pointer; 
+}
+.col1 ul li{
+    
+        margin: 15px;
+        background-image: url(icon_usefulLinks.png);
+        background-repeat:  no-repeat ;
+        background-position:  left ;
+        /* background-position:  center; */
+        /* list-style-position: outside;   */
+        overflow: hidden;
+        margin-left: 730px;
+}
+.more{
+    text-align: center;
+    margin: -90px;
+    padding: -90px;
+}
+.more a{
+    border: 1px solid #00a9df;
+    padding: 10px 25px 10px 40px;
+    display: inline-block;
+    margin-bottom: 25px;
+    background: url(../images/icon_otherLink.png) no-repeat 20px center;
+    color: #005C7A !important;
+    cursor: pointer;
+}
